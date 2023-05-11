@@ -1,7 +1,7 @@
 <h1 align="center"> Miguel Jiménez Padilla </h1>
 
 <div align = "center">
-  Hi there! My name is Miguel and I'm from Mexico. I'm 20 years old and I love programming, and solving problems through logic. I'm currently pursuing a B.S. in Computer Science at "Tecnológico de Monterrey".
+  Hi there! My name is Miguel and I'm from Mexico. I'm 21 years old and I love programming, and solving problems through logic. I'm currently pursuing a B.S. in Computer Science at "Tecnológico de Monterrey".
 </div>
 
 <br>
