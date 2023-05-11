@@ -36,7 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="60" height="60">
 </div>
  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikedev0x&show_icons=true&bg_color=00000000&border_color=00000000&locale=en&layout=compact" alt="mikedev0x"/></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikedev0x&show_icons=true&bg_color=00000000&border_color=00000000&locale=en&layout=compact&hide=HTML,Kotlin,R" alt="mikedev0x"/></p>
  
  <br><br><br><br><br><br><br>
 
