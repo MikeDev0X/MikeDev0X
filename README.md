@@ -11,37 +11,37 @@
 </div>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/miguel-jiménez-padilla-012a471a9/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/miguel-jiménez-padilla-012a471a9/" title="LinkedIn Profile"><img width="22" src="/linkedin.svg"> LinkedIn</a></code>
 </h5>
 
-  ### :hammer_and_wrench: Programming languages and tools :
+  ### :hammer_and_wrench: Programming languages and Frameworks:
 
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="65" height="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="65" height="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="65" height="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="65" height="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="65" height="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="65" height="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="65" height="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="65" height="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="65" height="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="65" height="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg" width="65" height="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="65" height="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="65" height="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" width="65" height="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="65" height="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="65" height="65">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="60" height="60">
 </div>
  
 
 ### :earth_americas: Language proficiency :
  
 - #### Spanish (Native)
-- #### English (TOEFL IBT - Test Center 90 (B2))
-- #### German (ÖSD Zertifikat A2)
+- #### English (TOEFL IBT - Test Center 90 - B2)
+- #### German (ÖSD Zertifikat - A2)
 
 
 
