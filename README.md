@@ -10,6 +10,9 @@
   <img src= "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="300" heigth="200"/>
 </div>
 
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/miguel-jiménez-padilla-012a471a9/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+</h5>
 
   ### :hammer_and_wrench: Programming languages and tools :
 
@@ -29,13 +32,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="65" height="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="65" height="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" width="65" height="65">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="65" height="65">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="65" height="65">
 </div>
  
 
 ### :earth_americas: Language proficiency :
  
 - #### Spanish (Native)
-- #### English (Pearson English International Certificate B2)
+- #### English (TOEFL IBT - Test Center 90 (B2))
 - #### German (ÖSD Zertifikat A2)
 
 
