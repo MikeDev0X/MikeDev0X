@@ -1,13 +1,20 @@
 <h1 align="center"> Miguel Jiménez Padilla </h1>
 
-<div align = "center">
-  Hi there! My name is Miguel and I'm from Mexico. I'm 22 years old and I love programming and solving problems through logic. I recently graduated with a B.S. degree in Computer Science and Technology at "Tecnológico de Monterrey".
+<div align = "left">
+  
+
+  
+  * 24 years old, passionate about programming and solving problems through logic.
+  
+  * 2+ years of  profesional experience developing real world solutions on React, SAP & Java. Proficient integrating WMS systems, developing APIs and supporting international clients.
+
+  * Computer Science and Technology graduate at "Tecnológico de Monterrey". 
 </div>
 
 <br>
 
 <div align="center">
-  <img src= "https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400" heigth="200"/>
+  <img src= "" width="400" heigth="200"/>
 </div>
 
 <h5 align="center">
@@ -57,9 +64,6 @@
 
  <br>
 
- <div align="center">
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikedev0x&show_icons=true&bg_color=000000&border_color=FFFFFF&locale=en&layout=compact&hide=HTML,Kotlin,R" alt="mikedev0x"/></p>
- </div>
 
    
 <!---
