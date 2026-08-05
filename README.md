@@ -6,15 +6,16 @@
   
   * 24 years old, passionate about programming and solving problems through logic.
   
-  * 2+ years of  profesional experience developing real world solutions on React, SAP & Java. Proficient integrating WMS systems, developing APIs and supporting international clients.
+  * 4+ years of  profesional experience developing real world solutions on React, SAP & Java. Proficient integrating WMS systems, developing APIs and supporting international clients.
 
   * Computer Science and Technology graduate at "Tecnológico de Monterrey". 
 </div>
 
 <br>
 
-<div align="center">
-  <img src= "" width="400" heigth="200"/>
+<div align="center">    
+    <img src="git_gifs/gif1.gif" alt="Computer" width="250">
+    <img src="git_gifs/gif2.gif" alt="Computer" width="188">
 </div>
 
 <h5 align="center">
@@ -56,11 +57,16 @@
 
 <h1 align="center"> :earth_americas: Language proficiency </h1> 
 
+
   <div align="center">
-    <h3> - Spanish (Native) </h3>
-    <h3> - English (TOEFL IBT - Test Center 90 - B2)</h3> 
-    <h3> - German (ÖSD Zertifikat - A2)</h3>        
-  </div>
+      
+  Spanish (Native)
+    
+  English (TOEFL IBT - Test Center 90 - B2)
+    
+  German (ÖSD Zertifikat - A2)
+  </div>  
+
 
  <br>
 
